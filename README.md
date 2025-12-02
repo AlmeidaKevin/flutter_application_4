@@ -31,7 +31,7 @@ Además, permite generar imágenes con texto personalizado.
 
 ``` bash
 git clone https://github.com/AlmeidaKevin/flutter_application_4.git
-cd flutter_application_4.git
+cd flutter_application_4
 flutter pub get
 flutter run
 ```
