@@ -1,4 +1,4 @@
-# 🐱 Gato App -- Flutter + CATAAS API
+# 🐱 Gatos App -- Flutter + CATAAS API
 
 Aplicación móvil desarrollada en **Flutter** que consume la API pública
 **CATAAS** para mostrar imágenes y GIFs de gatos de manera aleatoria.
