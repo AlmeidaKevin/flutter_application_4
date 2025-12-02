@@ -6,26 +6,9 @@ Además, permite generar imágenes con texto personalizado.
 
 <h3 align="center">Gatos App 🐱</h3>
 
-<p align="center">
-
-  <div>
-    <p align="center"><b>Botón Gato Random</b></p>
-    <img src="https://github.com/user-attachments/assets/eb116aab-c0c8-491b-af1a-add8d4817a1b" width="30%">
-  </div>
-
-  <div>
-    <p align="center"><b>Botón GIF Gato</b></p>
-    <img src="https://github.com/user-attachments/assets/143f00f8-c53b-425b-b802-9f6dc79ceb79" width="30%">
-  </div>
-
-  <div>
-    <p align="center"><b>Botón Gato Texto</b></p>
-    <img src="https://github.com/user-attachments/assets/858248c4-ea01-4ae9-813d-ac09c31484de" width="30%">
-  </div>
-
-</p>
-
-
+| Botón Gato Random | Botón GIF Gato | Botón Gato Texto |
+|-------------------|----------------|------------------|
+| <img src="https://github.com/user-attachments/assets/eb116aab-c0c8-491b-af1a-add8d4817a1b" width="200"> | <img src="https://github.com/user-attachments/assets/143f00f8-c53b-425b-b802-9f6dc79ceb79" width="200"> | <img src="https://github.com/user-attachments/assets/858248c4-ea01-4ae9-813d-ac09c31484de" width="200"> |
 
 
 
