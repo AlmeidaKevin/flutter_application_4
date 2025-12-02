@@ -30,8 +30,8 @@ Además, permite generar imágenes con texto personalizado.
 ## 📦 Instalación
 
 ``` bash
-git clone https://github.com/tu-usuario/gato_app.git
-cd gato_app
+git clone https://github.com/AlmeidaKevin/flutter_application_4.git
+cd flutter_application_4.git
 flutter pub get
 flutter run
 ```
